@@ -15,8 +15,11 @@ Youtube Videos
 ---------------
 
 https://www.youtube.com/watch?v=I3IJNQQIg3E&list=PLALOLBS64cI4&index=2
+
 https://www.youtube.com/watch?v=WtUIBxfddjw&list=PLALOLBS64cI4&index=4
+
 https://www.youtube.com/watch?v=nBYNzf4wzyo&list=PLALOLBS64cI4&index=5
+
 https://www.youtube.com/watch?v=yjwiEk_ZV5E&list=PLALOLBS64cI4&index=8
 
 
