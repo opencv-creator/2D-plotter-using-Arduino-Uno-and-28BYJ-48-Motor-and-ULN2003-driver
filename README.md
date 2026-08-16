@@ -1,6 +1,7 @@
 This project is created from the collective information obtained from youtube channels
 
 9v 2A power supply
+
 https://robu.in/product/orange-9v-2a-power-supply-with-5-5mm-dc-plug-adapter/
 
 28BYJ-48 Stepper Motor and ULN2003 Stepper Motor Driver
