@@ -23,11 +23,13 @@ Universal GCODE sender
 
 https://winder.github.io/ugs_website/download/
 
-https://jscut.org/jscut.html
-
 add grbl.zip present in the below GRBL-28byj-48 (github link) into Arduino IDE software for programming the Arduino UNO
 
 https://github.com/TGit-Tech/GRBL-28byj-48
+
+js-cut online tool
+
+https://jscut.org/jscut.html
 
 
 Youtube Videos
