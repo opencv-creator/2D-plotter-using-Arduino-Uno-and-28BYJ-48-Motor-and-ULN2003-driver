@@ -8,6 +8,7 @@ https://robu.in/product/orange-9v-2a-power-supply-with-5-5mm-dc-plug-adapter/
 https://robu.in/product/28byj-48-stepper-motor-and-uln2003-stepper-motor-driver-good-quality/
 
 2D plotter 3D printed parts
+
 https://smartxprokits.in/mini-cnc-plotter-for-diy-projects-3d-printed-compact-engraving-machine-electronics-motors-not-included/
 
 Youtube Videos
