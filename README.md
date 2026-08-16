@@ -1,5 +1,9 @@
 This project is created from the collective information obtained from youtube channels
 
+Tutorial Link
+
+https://www.pcbway.com/project/shareproject/Build_a_simple_3D_Arduino_Mini_CNC_Plotter_e2c3f905.html
+
 9v 2A power supply
 
 https://robu.in/product/orange-9v-2a-power-supply-with-5-5mm-dc-plug-adapter/
@@ -30,7 +34,6 @@ https://github.com/TGit-Tech/GRBL-28byj-48
 js-cut online tool
 
 https://jscut.org/jscut.html
-
 
 Youtube Videos
 ---------------
